@@ -31,4 +31,9 @@ h1{
     color: rgb(25, 170, 223)
 }
 
+.article-images{
+    margin-top: 15px;
+    font-size: small;
+}
+
 /* FOOTER */
